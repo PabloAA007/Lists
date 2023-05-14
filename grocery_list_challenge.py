@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Student Do: Grocery List.
-
-This script showcases basic operations of Python Lists to help Mike
-organize his grocery shopping list.
+Help Mike organize his grocery shopping list.
 """
 
 # @TODO: Create a list of groceries
